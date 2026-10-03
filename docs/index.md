@@ -7,7 +7,7 @@ hide:
 
 <div class="cna-kicker">Communauté CNCF · Côte d’Ivoire</div>
 
-# Cloud Native Abidjan
+<h1>Cloud Native Abidjan</h1>
 
 <div class="cna-tagline">Learn • Share • Build • Together</div>
 

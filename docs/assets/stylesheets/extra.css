@@ -318,3 +318,62 @@
     margin-top: .5rem;
   }
 }
+
+/* Dark mode — keep the community hub readable and lively. */
+[data-md-color-scheme="slate"] {
+  --cna-blue-soft: #10283a;
+  --cna-border: rgba(255,255,255,.12);
+  --cna-text-soft: #b9c2cc;
+}
+
+[data-md-color-scheme="slate"] .md-typeset {
+  color: #e5e9ee;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: #f3f5f7;
+}
+
+[data-md-color-scheme="slate"] .cna-tagline {
+  color: #d7dde4;
+}
+
+[data-md-color-scheme="slate"] .cna-lead {
+  color: #c4ccd5;
+}
+
+[data-md-color-scheme="slate"] .cna-welcome,
+[data-md-color-scheme="slate"] .cna-cta {
+  background: #10283a;
+  border-color: rgba(73, 170, 245, .35);
+}
+
+[data-md-color-scheme="slate"] .cna-welcome strong,
+[data-md-color-scheme="slate"] .cna-card-title {
+  color: #f3f5f7;
+}
+
+[data-md-color-scheme="slate"] .cna-welcome p,
+[data-md-color-scheme="slate"] .cna-card p,
+[data-md-color-scheme="slate"] .cna-caption {
+  color: #c0c9d2;
+}
+
+[data-md-color-scheme="slate"] .cna-card,
+[data-md-color-scheme="slate"] .cna-step,
+[data-md-color-scheme="slate"] .cna-link {
+  background: #20242b;
+  border-color: rgba(255,255,255,.12);
+}
+
+[data-md-color-scheme="slate"] .cna-topic {
+  background: #202b35;
+  border-color: rgba(73, 170, 245, .28);
+  color: #d8e1e9;
+}
+
+[data-md-color-scheme="slate"] .cna-note {
+  background: #102f29;
+}
