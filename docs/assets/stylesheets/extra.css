@@ -1,12 +1,22 @@
-/* Cloud Native Abidjan — clean, airy documentation */
+/* CNA — lightweight UX polish */
+
 :root {
-  --cna-blue: #008cff;
-  --cna-blue-dark: #006fcf;
-  --cna-soft: #f5f9fd;
+  --cna-blue: #078bf2;
+  --cna-blue-dark: #006fc9;
+  --cna-soft: #eef7ff;
+  --cna-border: #e5e7eb;
 }
 
-.md-grid {
-  max-width: 1280px;
+.md-header {
+  background: var(--cna-blue);
+}
+
+.md-tabs {
+  background: var(--cna-blue);
+}
+
+.md-main__inner {
+  margin-top: 1.2rem;
 }
 
 .md-content {
@@ -20,152 +30,96 @@
 .md-typeset h1 {
   font-weight: 750;
   letter-spacing: -0.02em;
-  margin-bottom: 1.2rem;
+  margin-bottom: .8rem;
 }
 
 .md-typeset h2 {
-  margin-top: 2.7rem;
-  font-weight: 700;
+  margin-top: 2.4rem;
 }
 
-.md-typeset h3 {
-  margin-top: 2rem;
+.md-typeset p {
+  margin-bottom: 1rem;
 }
 
-.md-typeset .md-button {
-  border-radius: 7px;
+.md-button {
   margin: .25rem .35rem .25rem 0;
 }
 
-.md-typeset .md-button--primary {
-  background: var(--cna-blue);
-  border-color: var(--cna-blue);
+.md-button--primary {
+  background: var(--cna-blue) !important;
+  border-color: var(--cna-blue) !important;
 }
 
-.md-typeset .md-button--primary:hover {
-  background: var(--cna-blue-dark);
-  border-color: var(--cna-blue-dark);
-}
-
-/* Hero */
 .cna-hero {
-  margin: .5rem 0 2.5rem;
-  padding: 2.2rem 2.4rem;
-  border: 1px solid rgba(0, 140, 255, .18);
-  border-radius: 14px;
-  background: linear-gradient(135deg, rgba(0, 140, 255, .08), rgba(0, 140, 255, .02));
+  padding: 1.2rem 0 1.5rem;
 }
 
-.cna-hero-small {
-  padding: 1.7rem 2rem;
+.cna-lead {
+  font-size: 1.05rem;
+  max-width: 760px;
 }
 
-.cna-hero h2 {
-  margin: .35rem 0 .8rem;
-  font-size: 1.65rem;
-}
-
-.cna-hero p {
-  max-width: 720px;
-  margin-bottom: 1.1rem;
-}
-
-.cna-kicker {
-  color: var(--cna-blue);
-  font-size: .75rem;
-  font-weight: 800;
-  letter-spacing: .09em;
-}
-
-/* Cards */
-.cna-cards {
+.cna-steps {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin: 1.5rem 0 2rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .65rem;
+  margin: 1.4rem 0 2rem;
 }
 
-.cna-card {
-  padding: 1.15rem 1.2rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 10px;
-  background: var(--md-default-bg-color);
-}
-
-.cna-card-title {
-  font-weight: 750;
-  margin-bottom: .45rem;
-}
-
-.cna-card p {
-  margin: 0;
-  font-size: .92rem;
-}
-
-/* Screenshots */
-.md-typeset figure {
-  margin: 1.6rem 0 2.4rem;
-}
-
-.md-typeset figure img {
-  display: block;
-  width: 100%;
-  height: auto;
-  max-height: 680px;
-  object-fit: contain;
-  margin: 0 auto;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 10px;
-  box-shadow: 0 6px 22px rgba(0, 0, 0, .08);
-}
-
-.md-typeset figcaption {
-  margin-top: .7rem;
-  color: var(--md-default-fg-color--light);
-  text-align: center;
-  font-size: .82rem;
-}
-
-.screenshot-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.1rem;
-  margin: 1.2rem 0 2.2rem;
-}
-
-.screenshot-grid figure {
-  margin: 0;
-}
-
-.screenshot-grid img {
-  max-height: 420px !important;
-}
-
-/* CTA */
-.cna-final-cta {
-  margin: 2.5rem 0 1rem;
-  padding: 1.8rem;
-  text-align: center;
-  border-radius: 12px;
+.cna-step {
+  border: 1px solid var(--cna-border);
+  border-radius: .65rem;
+  padding: .85rem .9rem;
   background: var(--cna-soft);
 }
 
-.cna-final-cta .md-button {
-  margin-top: .8rem;
+.cna-step strong {
+  display: block;
+  margin-bottom: .15rem;
 }
 
-/* Mobile */
-@media screen and (max-width: 900px) {
-  .cna-cards,
-  .screenshot-grid {
-    grid-template-columns: 1fr;
+.cna-step span {
+  font-size: .88rem;
+}
+
+.cna-screenshot {
+  margin: 1.25rem 0 2rem;
+}
+
+.cna-screenshot img {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  border: 1px solid var(--cna-border);
+  border-radius: .55rem;
+  box-shadow: 0 3px 14px rgba(0,0,0,.08);
+}
+
+.cna-caption {
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  font-size: .82rem;
+  margin-top: .55rem;
+}
+
+.cna-next {
+  margin-top: 2.2rem;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--cna-border);
+  border-radius: .7rem;
+}
+
+@media screen and (max-width: 700px) {
+  .cna-steps {
+    grid-template-columns: 1fr 1fr;
   }
 
-  .cna-hero {
-    padding: 1.5rem;
+  .md-typeset {
+    line-height: 1.65;
   }
 
-  .md-typeset figure img {
-    max-height: none;
+  .md-main__inner {
+    margin-top: .5rem;
   }
 }

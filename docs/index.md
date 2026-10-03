@@ -3,56 +3,54 @@ hide:
   - toc
 ---
 
+<div class="cna-hero">
+
 # Cloud Native Abidjan
 
-<div class="cna-hero">
-  <div>
-    <div class="cna-kicker">COMMUNAUTÉ CNCF · CÔTE D'IVOIRE</div>
-    <h2>Learn • Share • Build • Together</h2>
-    <p>Un espace pour apprendre, partager et contribuer à l'écosystème Cloud Native en Côte d'Ivoire.</p>
-    <div class="cna-actions">
-      <a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre la communauté</a>
-      <a class="md-button" href="https://www.linkedin.com/company/cloud-native-abidjan/">LinkedIn</a>
-    </div>
-  </div>
+**Learn • Share • Build • Together**
+
+<p class="cna-lead">
+Une communauté CNCF en Côte d’Ivoire pour apprendre, partager et construire autour du Cloud Native.
+</p>
+
+<a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre la communauté</a>
+<a class="md-button" href="https://www.linkedin.com/company/cloud-native-abidjan/">Nous suivre sur LinkedIn</a>
+
 </div>
 
 ## Bienvenue 👋
 
-Cloud Native Abidjan rassemble les personnes intéressées par le **Cloud Native**, **Kubernetes**, **Docker**, **DevOps**, **DevSecOps**, **Platform Engineering**, **GitOps**, **Cloud**, **Observability**, **AI** et **Open Source**.
+Cloud Native Abidjan rassemble les personnes intéressées par **Kubernetes, Docker, DevOps, DevSecOps, Platform Engineering, GitOps, Cloud, Observability, AI et Open Source**.
 
-Que vous soyez débutant, étudiant, professionnel IT ou simplement curieux, vous êtes les bienvenus.
+Pas besoin d’être expert. **Curieux, étudiant, développeur, ingénieur ou professionnel IT : vous êtes les bienvenus.**
 
-<div class="cna-cards">
-  <div class="cna-card">
-    <div class="cna-card-title">📚 Learn</div>
-    <p>Découvrez de nouvelles technologies et consolidez vos connaissances.</p>
-  </div>
-  <div class="cna-card">
-    <div class="cna-card-title">🤝 Share</div>
-    <p>Échangez avec d'autres passionnés et partagez votre expérience.</p>
-  </div>
-  <div class="cna-card">
-    <div class="cna-card-title">🛠️ Build</div>
-    <p>Participez à des démonstrations, ateliers et initiatives communautaires.</p>
-  </div>
+!!! tip "Vous voulez simplement nous rejoindre ?"
+    [Suivre le guide en 4 étapes →](join-community.md)
+
+## Ce que vous trouverez ici
+
+<div class="cna-steps">
+<div class="cna-step"><strong>📚 Learn</strong><span>Découvrir et apprendre.</span></div>
+<div class="cna-step"><strong>🤝 Share</strong><span>Échanger et partager.</span></div>
+<div class="cna-step"><strong>🛠️ Build</strong><span>Pratiquer et expérimenter.</span></div>
+<div class="cna-step"><strong>🌍 Together</strong><span>Faire grandir l’écosystème.</span></div>
 </div>
 
-## 🚀 Vous voulez nous rejoindre ?
+## Les prochains rendez-vous
 
-C'est simple et gratuit.
+Retrouvez les événements et les inscriptions sur la page officielle :
 
-**[Voir le guide pour rejoindre CNA →](join-community.md)**
+<a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Voir les événements</a>
 
-## 🔗 Nos espaces
+## Besoin d’aide ?
 
-- **[Communauté officielle](https://ocgroups.dev/cncf/group/cloud-native-abidjan)**
-- **[LinkedIn](https://www.linkedin.com/company/cloud-native-abidjan/)**
-- **[GitHub](https://github.com/Cloud-Native-Abidjan)**
-- **[WhatsApp](https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW)**
+Vous pouvez nous écrire directement à **[cloudnativeabidjan@gmail.com](mailto:cloudnativeabidjan@gmail.com)**.
+
+Vous pouvez aussi nous retrouver sur :
+
+- [LinkedIn](https://www.linkedin.com/company/cloud-native-abidjan/)
+- [GitHub](https://github.com/Cloud-Native-Abidjan)
+- [WhatsApp](https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW)
 
 ---
-
-**Learn • Share • Build • Together**
-
-*Cloud Native Abidjan*
+**Cloud Native Abidjan** · *Learn • Share • Build • Together*
