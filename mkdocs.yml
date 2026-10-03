@@ -1,0 +1,40 @@
+site_name: Cloud Native Abidjan
+site_description: Communauté Cloud Native Abidjan — Learn • Share • Build • Together
+site_url: https://cloud-native-abidjan.github.io/community-docs/
+repo_url: https://github.com/Cloud-Native-Abidjan/community-docs
+repo_name: Cloud-Native-Abidjan/community-docs
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Mode clair
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - admonition
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Rejoindre la communauté: join-community.md
+  - Événements: events.md
+  - Communauté: community.md

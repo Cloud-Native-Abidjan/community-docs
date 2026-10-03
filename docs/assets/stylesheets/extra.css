@@ -1,0 +1,16 @@
+.md-button--primary {
+  background-color: #008cff !important;
+  border-color: #008cff !important;
+}
+
+.md-content img {
+  display: block;
+  margin: 1.2rem auto 2rem;
+  max-width: 920px;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .10);
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
