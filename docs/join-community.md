@@ -1,10 +1,20 @@
+---
+hide:
+  - toc
+---
+
 # Rejoindre Cloud Native Abidjan
 
-Bienvenue dans la communauté ! 🚀
+Bienvenue dans la communauté ! 👋
 
 L'inscription est **gratuite** et ne prend que quelques minutes.
 
-[:material-account-plus: Rejoindre maintenant](https://ocgroups.dev/cncf/group/cloud-native-abidjan){ .md-button .md-button--primary }
+<div class="cna-actions">
+  <a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre maintenant</a>
+</div>
+
+!!! info "Le parcours en bref"
+    **1. Ouvrir la page CNA → 2. Se connecter → 3. Créer un compte si nécessaire → 4. Revenir sur CNA et rejoindre le groupe**
 
 ---
 
@@ -14,31 +24,53 @@ Rendez-vous sur la page officielle :
 
 **https://ocgroups.dev/cncf/group/cloud-native-abidjan**
 
-Cliquez ensuite sur **Join group**.
+Puis cliquez sur **Join group**.
 
-![Page Cloud Native Abidjan — Join group](assets/images/01-join-community.png)
+<figure markdown="span">
+  ![Page officielle Cloud Native Abidjan](assets/images/01-join-community.png)
+  <figcaption>Sur la page CNA, cliquez sur <strong>Join group</strong>.</figcaption>
+</figure>
 
 ---
 
 ## 2. Se connecter
 
-Si vous n'êtes pas connecté, la plateforme vous demande de vous connecter.
+Si vous n'êtes pas encore connecté, un message vous indique que vous devez vous connecter.
 
-Cliquez sur **Linux Foundation SSO**.
+Cliquez sur **OK**, puis sélectionnez **Linux Foundation SSO**.
 
-![Connexion Linux Foundation SSO](assets/images/02-login-required.png)
+<div class="screenshot-grid">
+  <figure markdown="span">
+    ![Connexion requise](assets/images/02-login-required.png)
+    <figcaption>1 · Confirmer la connexion</figcaption>
+  </figure>
+  <figure markdown="span">
+    ![Linux Foundation SSO](assets/images/03-linux-foundation-sso.png)
+    <figcaption>2 · Choisir Linux Foundation SSO</figcaption>
+  </figure>
+</div>
 
-> Selon votre parcours, vous pouvez ensuite être redirigé vers la page de connexion Linux Foundation.
-
-![Linux Foundation SSO](assets/images/03-linux-foundation-sso.png)
+!!! tip "Vous avez déjà un compte Linux Foundation ?"
+    Connectez-vous avec vos identifiants. Vous pourrez ensuite revenir directement sur la page Cloud Native Abidjan.
 
 ---
 
 ## 3. Créer un compte si nécessaire
 
-Si vous n'avez pas encore de compte Linux Foundation, cliquez sur **Create an account**.
+Si vous n'avez pas encore de compte, cliquez sur **Create an account**.
 
-Renseignez :
+<div class="screenshot-grid">
+  <figure markdown="span">
+    ![Créer un compte](assets/images/04-create-lfid-account.png)
+    <figcaption>1 · Cliquer sur <strong>Create an account</strong></figcaption>
+  </figure>
+  <figure markdown="span">
+    ![Formulaire de création de compte](assets/images/05-submit-account.png)
+    <figcaption>2 · Renseigner les informations demandées</figcaption>
+  </figure>
+</div>
+
+Renseignez simplement :
 
 - Prénom
 - Nom
@@ -48,11 +80,9 @@ Renseignez :
 
 Puis cliquez sur **Create Account**.
 
-![Création d'un compte Linux Foundation](assets/images/04-create-lfid-account.png)
-
 ---
 
-## 4. Finaliser puis rejoindre CNA
+## 4. Revenir sur CNA et rejoindre le groupe
 
 Une fois votre compte créé et connecté, revenez sur :
 
@@ -60,29 +90,36 @@ Une fois votre compte créé et connecté, revenez sur :
 
 Cliquez à nouveau sur **Join group**.
 
-![Finalisation de la création du compte](assets/images/05-submit-account.png)
-
-🎉 **Vous faites maintenant partie de Cloud Native Abidjan !**
+!!! success "C'est fait 🎉"
+    Vous faites maintenant partie de **Cloud Native Abidjan**.
 
 ---
 
-## 🎯 Pourquoi rejoindre CNA ?
+## Pourquoi rejoindre CNA ?
 
 En rejoignant la communauté, vous pouvez :
 
 - 📚 découvrir et apprendre ;
-- 🎤 participer à des meetups et proposer des sujets ;
+- 🎤 participer aux meetups et proposer des sujets ;
 - 🛠️ participer à des ateliers pratiques ;
 - 🤝 échanger avec d'autres passionnés du Cloud Native ;
 - 💡 partager votre expérience ;
 - 🌍 contribuer à l'écosystème Cloud Native en Côte d'Ivoire.
 
-## 🔗 Ensuite ?
+---
 
-Rejoignez également nos espaces communautaires :
+## Et maintenant ?
+
+Retrouvez-nous également sur :
 
 - **[LinkedIn](https://www.linkedin.com/company/cloud-native-abidjan/)**
 - **[GitHub](https://github.com/Cloud-Native-Abidjan)**
 - **[WhatsApp](https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW)**
 
+<div class="cna-final-cta">
+
 **Learn • Share • Build • Together**
+
+<a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre Cloud Native Abidjan</a>
+
+</div>

@@ -11,8 +11,17 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Ouvrir ensuite http://127.0.0.1:8000
+Puis ouvrir `http://127.0.0.1:8000`.
 
 ## Publication
 
 Les changements poussés sur `main` sont automatiquement construits et publiés sur GitHub Pages via GitHub Actions.
+
+## Structure
+
+- `docs/index.md` — point d'entrée
+- `docs/join-community.md` — guide pour rejoindre CNA
+- `docs/events.md` — événements et formats
+- `docs/community.md` — présentation de la communauté
+- `docs/assets/images/` — captures d'écran
+- `docs/assets/stylesheets/extra.css` — personnalisation visuelle
