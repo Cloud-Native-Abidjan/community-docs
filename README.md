@@ -1,28 +1,19 @@
-# Cloud Native Abidjan — Community Docs
+# Cloud Native Abidjan — Community Docs V4
 
-Documentation publique de Cloud Native Abidjan, publiée avec MkDocs Material et GitHub Pages.
+Version volontairement simple et orientée communauté :
 
-## UX principles
+- navigation courte
+- thème clair uniquement
+- pas de recherche inutile pour 4 pages
+- accueil vivant mais léger
+- CTA "Rejoindre" visible
+- guide d'inscription avec images cliquables
+- liens externes et email cliquables
+- aucune information interne/admin dans le site public
 
-- contenu court et orienté action ;
-- une seule action principale par écran ;
-- images dans l’ordre exact du parcours ;
-- toutes les ressources externes sont cliquables ;
-- affichage mobile-friendly ;
-- captures zoomables ;
-- pas de contenu administratif inutile.
+## Déploiement
 
-## Local development
+Le workflow GitHub Actions dans `.github/workflows/deploy-pages.yml` publie le site sur GitHub Pages.
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve
-```
-
-Puis ouvrir http://127.0.0.1:8000
-
-## Publication
-
-Les changements poussés sur `main` sont automatiquement construits et publiés sur GitHub Pages.
+Source : https://github.com/Cloud-Native-Abidjan/community-docs
+Site : https://cloud-native-abidjan.github.io/community-docs/

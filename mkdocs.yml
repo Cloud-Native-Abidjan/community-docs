@@ -2,42 +2,30 @@ site_name: Cloud Native Abidjan
 site_description: Cloud Native Abidjan — Learn • Share • Build • Together
 site_url: https://cloud-native-abidjan.github.io/community-docs/
 
+# Community hub, not a technical documentation portal.
 theme:
   name: material
   language: fr
   features:
-    - navigation.top
     - navigation.instant
-    - navigation.tracking
-    - search.suggest
-    - search.highlight
-    - content.tooltips
+    - navigation.tabs
+    - navigation.top
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: blue
       accent: light blue
-      toggle:
-        icon: material/weather-night
-        name: Mode sombre
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: light blue
-      toggle:
-        icon: material/weather-sunny
-        name: Mode clair
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
-  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.blocks.caption
 
 plugins:
-  - search
   - glightbox:
       touchNavigation: true
       loop: false
@@ -49,23 +37,22 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      name: Cloud Native Abidjan sur LinkedIn
+      name: LinkedIn
       link: https://www.linkedin.com/company/cloud-native-abidjan/
     - icon: fontawesome/brands/github
-      name: Cloud Native Abidjan sur GitHub
+      name: GitHub
       link: https://github.com/Cloud-Native-Abidjan
     - icon: fontawesome/brands/whatsapp
-      name: Groupe WhatsApp Cloud Native Abidjan
+      name: WhatsApp
       link: https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW
     - icon: fontawesome/solid/envelope
-      name: Contacter Cloud Native Abidjan par email
+      name: Email
       link: mailto:cloudnativeabidjan@gmail.com
 
 copyright: Cloud Native Abidjan
 
 nav:
   - Accueil: index.md
-  - Rejoindre la communauté: join-community.md
+  - Rejoindre: join-community.md
   - Événements: events.md
   - Communauté: community.md
-  - Contact: contact.md
