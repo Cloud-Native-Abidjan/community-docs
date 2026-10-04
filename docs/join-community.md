@@ -7,7 +7,7 @@ hide:
 
 Bienvenue dans la communauté 👋
 
-L’inscription est gratuite et ne prend que quelques minutes.
+L'inscription est gratuite et ne prend que quelques minutes.
 
 <a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre maintenant</a>
 
@@ -18,7 +18,7 @@ L’inscription est gratuite et ne prend que quelques minutes.
 <div class="cna-step"><strong>4 · Rejoindre</strong><span>Le groupe CNA</span></div>
 </div>
 
-<div class="cna-note"><strong>Vous avez déjà un compte Linux Foundation ?</strong><br>Passez directement à l’étape 2.</div>
+<div class="cna-note"><strong>Vous avez déjà un compte Linux Foundation ?</strong><br>Passez directement à l'étape 2.</div>
 
 ## 1. Ouvrir la page Cloud Native Abidjan
 
@@ -31,7 +31,7 @@ Ouvrez la <a href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">page of
 
 ## 2. Se connecter
 
-Si vous n’êtes pas encore connecté, un message vous indique que vous devez vous connecter.
+Si vous n'êtes pas encore connecté, un message vous indique que vous devez vous connecter.
 
 Cliquez sur **OK**, puis sélectionnez **Linux Foundation SSO**.
 
@@ -51,10 +51,10 @@ Si vous avez déjà un compte, connectez-vous avec vos identifiants.
 
 ## 3. Créer un compte si nécessaire
 
-Vous n’avez pas encore de compte Linux Foundation ? Cliquez sur **Create an account**.
+Vous n'avez pas encore de compte Linux Foundation ? Cliquez sur **Create an account**.
 
 <div class="cna-screenshot">
-<a href="../assets/images/04-create-lfid-account.png"><img src="../assets/images/04-create-lfid-account.png" alt="Formulaire de création d’un compte Linux Foundation" loading="lazy"></a>
+<a href="../assets/images/04-create-lfid-account.png"><img src="../assets/images/04-create-lfid-account.png" alt="Formulaire de création d'un compte Linux Foundation" loading="lazy"></a>
 <div class="cna-caption">4 · Cliquer sur <strong>Create an account</strong></div>
 </div>
 
@@ -63,7 +63,7 @@ Renseignez simplement :
 - Prénom
 - Nom
 - Email
-- Nom d’utilisateur
+- Nom d'utilisateur
 - Mot de passe
 
 Puis cliquez sur **Create Account**.
@@ -79,16 +79,16 @@ Une fois votre compte créé et connecté, retournez sur la <a href="https://ocg
 
 Cliquez à nouveau sur **Join group**.
 
-<div class="cna-note"><strong>C’est fait 🎉</strong><br>Vous faites maintenant partie de <strong>Cloud Native Abidjan</strong>.</div>
+<div class="cna-note"><strong>C'est fait 🎉</strong><br>Vous faites maintenant partie de <strong>Cloud Native Abidjan</strong>.</div>
 
 ## Pourquoi rejoindre CNA ?
 
 - 📚 Découvrir et apprendre
 - 🎤 Participer aux meetups et proposer des sujets
 - 🛠️ Participer à des ateliers pratiques
-- 🤝 Échanger avec d’autres passionnés du Cloud Native
+- 🤝 Échanger avec d'autres passionnés du Cloud Native
 - 💡 Partager votre expérience
-- 🌍 Contribuer à l’écosystème Cloud Native en Côte d’Ivoire
+- 🌍 Contribuer à l'écosystème Cloud Native en Côte d'Ivoire
 
 <div class="cna-final">
 <strong>Une question ?</strong> <a href="mailto:cloudnativeabidjan@gmail.com">Écrivez-nous</a> · <a href="https://www.linkedin.com/company/cloud-native-abidjan/">LinkedIn</a> · <a href="https://github.com/Cloud-Native-Abidjan">GitHub</a> · <a href="https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW">WhatsApp</a>

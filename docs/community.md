@@ -5,11 +5,13 @@ hide:
 
 # La communauté
 
-Cloud Native Abidjan est une communauté CNCF en Côte d’Ivoire dédiée au partage, à l’apprentissage et à la contribution autour du Cloud Native.
+Cloud Native Abidjan est une communauté CNCF en Côte d'Ivoire dédiée au partage, à l'apprentissage et à la contribution autour du Cloud Native.
 
 ## Ce qui nous rassemble
 
-**Apprendre. Partager. Pratiquer. Construire ensemble.**
+**Apprendre. Partager. Construire. Ensemble.**
+
+Nous réunissons des professionnels, des étudiants, des développeurs et des curieux intéressés par les technologies et pratiques Cloud Native.
 
 La communauté est ouverte aux débutants comme aux professionnels expérimentés.
 
@@ -19,11 +21,17 @@ La communauté est ouverte aux débutants comme aux professionnels expérimenté
 <span class="cna-topic">Kubernetes</span><span class="cna-topic">Docker</span><span class="cna-topic">DevOps</span><span class="cna-topic">DevSecOps</span><span class="cna-topic">Platform Engineering</span><span class="cna-topic">GitOps</span><span class="cna-topic">Cloud & Infrastructure</span><span class="cna-topic">Observability / SRE</span><span class="cna-topic">CI/CD</span><span class="cna-topic">Cloud Security</span><span class="cna-topic">AI</span><span class="cna-topic">Open Source</span>
 </div>
 
-## Contribuer
+## Comment contribuer
 
-Vous pouvez proposer un sujet, partager votre expérience, intervenir lors d’un meetup, animer un atelier ou aider à l’organisation.
+Vous pouvez contribuer de plusieurs façons :
 
-Toute contribution est la bienvenue.
+- **Proposer un sujet** de présentation ou d'atelier
+- **Partager votre expérience** lors d'un meetup
+- **Intervenir en tant que speaker** sur un sujet qui vous passionne
+- **Animer un atelier** ou une session pratique
+- **Aider à l'organisation** des événements
+
+Toute contribution est la bienvenue, quelle que soit votre expérience.
 
 <div class="cna-cta">
 <p><strong>Envie de participer ?</strong><br>Rejoignez la communauté gratuitement.</p>

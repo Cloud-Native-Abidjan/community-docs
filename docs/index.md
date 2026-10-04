@@ -5,13 +5,13 @@ hide:
 
 <div class="cna-hero">
 
-<div class="cna-kicker">Communauté CNCF · Côte d’Ivoire</div>
+<div class="cna-kicker">Communauté CNCF · Côte d'Ivoire</div>
 
 <h1>Cloud Native Abidjan</h1>
 
 <div class="cna-tagline">Learn • Share • Build • Together</div>
 
-<p class="cna-lead">Une communauté pour apprendre, partager et construire autour du Cloud Native en Côte d’Ivoire.</p>
+<p class="cna-lead">Une communauté pour apprendre, partager et construire autour du Cloud Native en Côte d'Ivoire.</p>
 
 <div class="cna-actions">
 <a class="md-button md-button--primary" href="https://ocgroups.dev/cncf/group/cloud-native-abidjan">Rejoindre la communauté</a>
@@ -22,14 +22,15 @@ hide:
 
 <div class="cna-welcome">
 <strong>Bienvenue 👋</strong>
-<p>Pas besoin d’être expert. Étudiant, développeur, ingénieur, professionnel IT ou simplement curieux : vous êtes les bienvenus.</p>
+
+<p>Pas besoin d'être expert. Curieux, étudiant, développeur, ingénieur ou professionnel IT : vous êtes les bienvenus.</p>
 </div>
 
 ## Ce que nous faisons
 
 <div class="cna-cards">
 <div class="cna-card"><div class="cna-card-title">📚 Learn</div><p>Meetups, présentations et échanges pour découvrir et apprendre.</p></div>
-<div class="cna-card"><div class="cna-card-title">🤝 Share</div><p>Partage d’expérience, idées, sujets et retours du terrain.</p></div>
+<div class="cna-card"><div class="cna-card-title">🤝 Share</div><p>Partage d'expérience, idées, sujets et retours du terrain.</p></div>
 <div class="cna-card"><div class="cna-card-title">🛠️ Build</div><p>Ateliers pratiques et initiatives pour passer de la théorie à la pratique.</p></div>
 </div>
 
@@ -52,4 +53,5 @@ Une question, une idée ou envie de contribuer ? <a href="mailto:cloudnativeabid
 <a class="cna-link" href="https://www.linkedin.com/company/cloud-native-abidjan/">LinkedIn</a>
 <a class="cna-link" href="https://github.com/Cloud-Native-Abidjan">GitHub</a>
 <a class="cna-link" href="https://chat.whatsapp.com/BqhizdWbC4e1lpPcJiCayW">WhatsApp</a>
+<a class="cna-link" href="mailto:cloudnativeabidjan@gmail.com">Email</a>
 </div>
